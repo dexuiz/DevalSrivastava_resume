@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.18)  19 APR 2018 23:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.18)  19 APR 2018 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -245,25 +245,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--63
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./profi
-le.jpg>] ) 
+le.jpg>] [2] ) 
 Here is how much of TeX's memory you used:
- 2409 strings out of 492995
- 34500 string characters out of 6132704
+ 2411 strings out of 492995
+ 34521 string characters out of 6132704
  102769 words of memory out of 5000000
- 5957 multiletter control sequences out of 15000+600000
- 5510 words of font info for 20 fonts, out of 8000000 for 9000
+ 5958 multiletter control sequences out of 15000+600000
+ 5863 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,13n,28p,301b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12
-.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb>
-Output written on DevalSrivastava_resume.pdf (1 page, 100896 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sl10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+l12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb>
+Output written on DevalSrivastava_resume.pdf (2 pages, 114087 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
