@@ -1,26 +1,36 @@
-\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
-\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
-\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
-%\geometry{landscape}                		% Activate for rotated page geometry
-%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
-\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
-								% TeX will automatically convert eps --> pdf in pdflatex		
-\usepackage{amssymb}
+\documentclass[margin]{res}
+\usepackage{graphicx}
+\usepackage{tabu}
+\usepackage{multirow}
 
-%SetFonts
-
-%SetFonts
-
-
-\title{Brief Article}
-\author{The Author}
-%\date{}							% Activate to display a given date or no date
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\setlength{\textwidth}{5.1in} % set width of text portion
+\renewcommand{\arraystretch}{1.2}
 
 \begin{document}
-\maketitle
-%\section{}
-%\subsection{}
+
+% Center the name over the entire width of resume:
+ \moveleft.5\hoffset\centerline{\Large\bf Deval Srivastava}
+% Draw a horizontal line the whole width of resume:
+ \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+\hskip-3.0cm\begin{tabular*}{6in}{l@{\extracolsep{\fill}}r}
+        & \multirow{1}{*}{\includegraphics[scale=0.27]{profile}}\\
+         
+        %-----------------------------------------------------------  
+        Army Colony, Nerul & \\
+        Navi Mumbai-400706  \\
+        Maharashtra\\
+        dex345z@gmail.com \\
+        9699727877\\
+    \end{tabular*}
+
+\begin{resume}
+ 
+
+\end{resume}
+\end{document}
 
 
 
-\end{document}  
+
